@@ -1,0 +1,15 @@
+urls 
+
+
+localhost:8000/api/shop/category/           accept get only -->> return list of categories 
+
+
+localhost:8000/api/shop/category/<id>          accept get only -->> return product list of this category id 
+                                                filter products by category 
+
+
+
+localhost:8000/api/shop/product/           accept get and post 
+
+
+

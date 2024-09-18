@@ -1,0 +1,7 @@
+i can add to Modelserializer 
+
+validate()  -->> user to validate the data from the validated_data
+
+create()  -->> use if i want to edit somthing before save the serializer
+
+ 
